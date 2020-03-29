@@ -1,1 +1,1 @@
-prints "Welcome to Tic Tac Toe!"
+printf "Welcome to Tic Tac Toe!"
